@@ -42,29 +42,5 @@
 <hr/>
 
 <!-- ===================== STATS ===================== -->
-<h2>📊 GitHub Stats</h2>
+# 📊 GitHub Stats: ![](https://github-readme-stats.vercel.app/api?username=arindam-tech9&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=arindam-tech9&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arindam-tech9&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arindam-tech9&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arindam-tech9&theme=dark&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arindam-tech9&layout=compact&theme=dark&hide_border=true" width="40%" />
-</p>
-
-<hr/>
-
-<!-- ===================== QUOTE ===================== -->
-<h3>✍️ Developer Quote</h3>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
-
-<hr/>
-
-<!-- ===================== VISITOR ===================== -->
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=arindam-tech9&icon=2&color=6" />
-</p>
