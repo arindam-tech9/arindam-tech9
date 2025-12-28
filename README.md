@@ -1,22 +1,70 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>• Backend application development and system design<br>• Scalable REST APIs and server-side logic<br>• Performance optimization and clean code practices<br><br>👯 I’m looking to collaborate on<br>• Open-source backend and full-stack projects<br>• System design–oriented software solutions<br>• High-impact engineering products<br><br>🤝 I’m looking for help with<br>• Distributed systems and scalability patterns<br>• Cloud-native deployment and CI/CD pipelines<br>• Writing production-grade, maintainable code<br><br>🌱 I’m currently learning<br>• Advanced Data Structures & Algorithms<br>• System Design and Microservices architecture<br>• Cloud platforms and DevOps fundamentals<br><br>💬 Ask me about<br>• C++, java, SQL<br>• Backend development and API design<br>• Data Structures, Algorithms, and problem solving<br><br>⚡ Fun fact<br>• I enjoy refactoring code to make it simpler, faster, and more readable.
+<!-- ===================== HEADER ===================== -->
+<h1 align="center">Hi, I'm Arindam Sarkar 👋</h1>
+<p align="center">
+  Backend Software Engineer | System Design | APIs | Clean Code
+</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/arindam-sarkar-4601771a7/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@arindam742213" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://x.com/Arindam38841647" target="_blank">
+    <img src="https://img.shields.io/badge/X-black?style=flat&logo=X&logoColor=white" />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arindam-sarkar-4601771a7/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@arindam742213) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Arindam38841647) 
+<hr/>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=arindam-tech9&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=arindam-tech9&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arindam-tech9&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- ===================== ABOUT ===================== -->
+<h2>👨‍💻 About Me</h2>
 
+<ul>
+  <li><strong>Currently working on:</strong> Backend systems, scalable REST APIs, performance optimization</li>
+  <li><strong>Looking to collaborate on:</strong> Open-source backend & full-stack projects</li>
+  <li><strong>Seeking help with:</strong> Distributed systems, cloud deployments, CI/CD</li>
+  <li><strong>Currently learning:</strong> Advanced DSA, system design, microservices</li>
+  <li><strong>Ask me about:</strong> C++, Java, SQL, backend architecture</li>
+  <li><strong>Fun fact:</strong> I enjoy refactoring code more than writing it the first time</li>
+</ul>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=arindam-tech9&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<hr/>
 
----
-[![](https://visitcount.itsvg.in/api?id=arindam-tech9&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- ===================== TECH STACK ===================== -->
+<h2>💻 Tech Stack</h2>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,nodejs,express,react,mongodb,git,github,docker" />
+</p>
+
+<hr/>
+
+<!-- ===================== STATS ===================== -->
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arindam-tech9&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arindam-tech9&theme=dark&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arindam-tech9&layout=compact&theme=dark&hide_border=true" width="40%" />
+</p>
+
+<hr/>
+
+<!-- ===================== QUOTE ===================== -->
+<h3>✍️ Developer Quote</h3>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+<hr/>
+
+<!-- ===================== VISITOR ===================== -->
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=arindam-tech9&icon=2&color=6" />
+</p>
